@@ -2,21 +2,14 @@
     <channel>
         <title><![CDATA[R3IMAGINE LIFE]]></title>
         <description><![CDATA[R3IMAGINE LIFE]]></description>
-        <link>https://thegrid.ai/reimaginelife/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Dec 2015 18:35:21 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/reimaginelife/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[test]]></title>
-            <description><![CDATA[<article><h1>test</h1><p>Test</p></article>]]></description>
-            <link>https://thegrid.ai/reimaginelife/test/index.html</link>
-            <guid isPermaLink="false">102fa813-c6ca-497c-80da-bdc44c85a3a2</guid>
-            <pubDate>Thu, 03 Dec 2015 18:34:19 GMT</pubDate>
-        </item>
+        <lastBuildDate>Thu, 03 Dec 2015 18:34:28 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
-            <link>https://thegrid.ai/reimaginelife/getting-started-on-the-grid/index.html</link>
+            <link>undefinedgetting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">a55074cf-7dfc-4db3-b84b-71382d0d8e84</guid>
             <pubDate>Thu, 03 Dec 2015 18:34:19 GMT</pubDate>
         </item>
